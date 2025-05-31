@@ -36,7 +36,7 @@ Click here to download the model file
 Place the downloaded emotion_model_sklearn.joblib file in the project root directory.
 
 
-Features
+Features:-
 Real-time facial emotion detection using webcam or images
 
 Preprocessing and scaling of facial features
@@ -46,7 +46,7 @@ Emotion classification using a trained machine learning model
 Haar cascade classifier for face detection
 
 
-Requirements
+Requirements:-
 Python 3.x
 
 OpenCV
@@ -58,7 +58,7 @@ joblib
 numpy
 
 
-Model Info
+Model Info:-
 Classifier: e.g., RandomForestClassifier or another ML model from scikit-learn
 
 Features: Facial region pixel values or landmarks
