@@ -1,0 +1,2 @@
+emotion_model_sklearn.joblib filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
